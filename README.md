@@ -1,2 +1,4 @@
 # Asstosrt.bundle
 将本地ASS字幕转换为STR字幕的plex插件
+PLEX播放ass字幕时会强制转码，使用此插件可以将本地的ass字幕转换为str字幕另存一份，某些情况下不想直接串流不转码的话就直接用str字幕。
+更多PLEX中文插件请访问plexmedia.cn
